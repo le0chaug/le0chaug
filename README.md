@@ -1,6 +1,5 @@
--  Hi, I’m @le0chaug or Call me Lee.
--  I’m interested in Programming, Cybersecurity, web development ..
+-  Hi, I’m @le0chaug.
+-  I’m interested in Programming,forensic and Cybersecurity ..
 -  I’m currently learning IOT, PHP ...
-- 💞️ I’m CS Student  ...
--  Never Stop learning :)
-
+-  I’m Computer Science Student  ...
+- -. . ...- . .-. / ... - --- .--. / .-.. . .- .-. -. .. -. --. :)
